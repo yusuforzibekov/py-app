@@ -5,5 +5,3 @@ elif a < 0:
     print("Siz manfiy son kiritdingiz")
 else:
     print("Toq son")
-
-
